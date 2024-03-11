@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lorem-ipsum-generator/static/css/main.5cdde4e3.css",
+    "main.js": "/lorem-ipsum-generator/static/js/main.f6786cfc.js",
+    "static/js/453.de3fd163.chunk.js": "/lorem-ipsum-generator/static/js/453.de3fd163.chunk.js",
+    "index.html": "/lorem-ipsum-generator/index.html",
+    "main.5cdde4e3.css.map": "/lorem-ipsum-generator/static/css/main.5cdde4e3.css.map",
+    "main.f6786cfc.js.map": "/lorem-ipsum-generator/static/js/main.f6786cfc.js.map",
+    "453.de3fd163.chunk.js.map": "/lorem-ipsum-generator/static/js/453.de3fd163.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cdde4e3.css",
+    "static/js/main.f6786cfc.js"
+  ]
+}
